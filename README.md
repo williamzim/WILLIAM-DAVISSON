@@ -35,24 +35,6 @@
 <h3 align="center">📈 GitHub Stats</h3>
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamzim/williamzim/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamzim/williamzim/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/williamzim/williamzim/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/williamzim/williamzim/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/williamzim/williamzim/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
-
-<br/>
-<br/>
-
 <h3 align="center">📫 Conecte-se comigo</h3>
 <br/>
 
